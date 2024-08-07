@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #5f6f65;
+}
+
+.heading {
+  text-align: center;
+}
+
+.time {
+  display: flex;
+  gap: 10rem;
+  justify-content: center;
+  margin-top: 10rem;
+  font-size: 4rem;
+  color: #9ca986;
+}
